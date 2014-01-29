@@ -105,6 +105,7 @@
     <EmbeddedResource Include="Test-Files\Hg\requires" />
     <None Include="ZippedRepositories\Mvc3Application.zip" />
     <None Include="ZippedRepositories\Mvc3Application_NoSolution.zip" />
+    <None Include="ZippedRepositories\webjobstest.zip" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="ZippedRepositories\repos.txt" />
